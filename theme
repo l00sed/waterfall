@@ -1,6 +1,6 @@
 #define gtk_theme           Sweet-Dark-v40
 #define icon_theme          Paper
-#define desktop_wallpaper   /home/dan/Pictures/background.jpeg
+#define desktop_wallpaper   /etc/regolith/styles/waterfall/background.jpeg
 #define rofi_theme          /etc/regolith/styles/waterfall/rofi.rasi
 #define theme_terminal_scrollbar never
 
